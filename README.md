@@ -1,5 +1,5 @@
 # VisurLaboratory
-Creating Computer Viruses for experimental usage
+Creating Computer Viruses for experimental use
 
 This program was written by QuickBASIC.
 VirusLaboratory designed for experimental purposes to demonstrate how computer viruses work.
